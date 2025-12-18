@@ -1,13 +1,12 @@
 <img width="300px" align="right" src="https://ahmedalmory.github.io/portfolio/img/ahmed.54f72b69.jpg"/>
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=ahmedalmory&color=FAC151)][1]
+[![Java](https://img.shields.io/badge/Java-Devaloper-FAC151.svg?logo=Java&logoWidth=20)](https://github.com/ahmedalmory)
 [![PHP](https://img.shields.io/badge/PHP-Devaloper-FAC151.svg?logo=php&logoWidth=20)](https://github.com/ahmedalmory)
-[![Python](https://img.shields.io/badge/Python-Devaloper-FAC151.svg?logo=Python&logoWidth=20)](https://github.com/ahmedalmory)
-[![youtube](https://img.shields.io/badge/Fekret%20Code-Follow%20Us-FAC151.svg?logo=youtube&logoWidth=20)][4]
 
 ### Yo! 👋🏻,
 
-I am a passionate Software Developer 🚀 from Egypt 🇪🇬. with more than 5 years experience delivering tech solutions, avid programmer and fast learner, obsessed with details and quality, always trying to improve development process and code quality, I love simple and elegant solutions for every problem.
+I am a passionate Software Developer 🚀 from Egypt 🇪🇬. with more than 6 years experience delivering tech solutions, avid programmer and fast learner, obsessed with details and quality, always trying to improve development process and code quality, I love simple and elegant solutions for every problem.
 
 
 You can see what I am currently up to on [https://ahmedalmory.github.io/portfolio][1].
@@ -16,8 +15,6 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 
 - Web: [https://ahmedalmory.github.io/portfolio][1]
 - LinkedIn: [linkedin.com/in/ahmedalmory][2]
-- Twitter: [twitter.com/ahmedalmory99][3]
-- YouTube: [youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg][4]
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -34,12 +31,10 @@ You can see what I am currently up to on [https://ahmedalmory.github.io/portfoli
 - 🇪🇬 🇸🇦 Arabic: Native
 - 🇺🇸 English: C2
 - 🇹🇷 Turkish: B2
-- 🇩🇪 German: A1
+- 🇩🇪 German: A2
 - 🇯🇵 Japanese: ありがとうございました (that's it, that's all of my Japanese)
 
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
 
 [1]: https://ahmedalmory.github.io/portfolio
 [2]: https://www.linkedin.com/in/ahmedalmory
-[3]: https://twitter.com/intent/follow?screen_name=ahmedalmory99
-[4]: https://www.youtube.com/channel/UC6R3NoVUNSzp1LpdntKDXfg
